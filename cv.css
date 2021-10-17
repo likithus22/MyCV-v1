@@ -1,0 +1,22 @@
+body
+{
+    background-color: #E8F6EF;
+}
+
+hr
+{
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+}
+
+h2,h3,h1
+{
+    color: #66bfbf;
+}
+
+.en
+{
+    color: black;
+}
